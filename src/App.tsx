@@ -81,7 +81,7 @@ function App() {
             <h3>Join Our Telegram Channel</h3>
             <p>Get updates, tips, and exclusive content!</p>
             <a
-              href="https://t.me/YOUR_CHANNEL_NAME"
+              href="https://t.me/Link_videos_Download"
               target="_blank"
               rel="noopener noreferrer"
               className="telegram-btn"
